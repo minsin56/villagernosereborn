@@ -18,7 +18,7 @@ public class ScreenOreNose extends Screen
 
     @Override
     public void init(Minecraft minecraft, int width, int height)
-    {
+    { 
 
         super.init(minecraft, width, height);
 
